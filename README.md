@@ -1,4 +1,5 @@
-# playlistvuex
+# Tiny shop
+Testing vue router. 
 
 ## Project setup
 ```
